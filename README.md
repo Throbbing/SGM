@@ -5,7 +5,7 @@ Semi-Global Matching Implement in CPU/GPU
 
 ## Teddy
 ![teddy](https://github.com/Throbbing/SGM/blob/master/result/teddy.bmp)
-|         |   GPU      |  CPU
+|   step  |   GPU      |  CPU
 | ------  |:----------:|------: |  
 | cost    |  124.5ms   | 690.27ms |
 | DP      |  371.6ms   | 3650.38ms|
