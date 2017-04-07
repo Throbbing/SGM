@@ -5,11 +5,10 @@ Semi-Global Matching Implement in CPU/GPU
 
 ## Teddy
 ![teddy](https://github.com/Throbbing/SGM/blob/master/result/teddy.bmp)
-|   step  |   GPU      |  CPU   |
-| ------  |:----------:|------: |  
-| cost    |  124.5ms   | 690.27ms |
-| DP      |  371.6ms   | 3650.38ms|
-|Disparity|  3.36ms    | 30.35ms  |  
+###           GPU       CPU
+### cost      124.5ms   690.27ms
+### DP        371.05ms  3650.38ms
+### Disparity 3.36ms    30.35ms
 
 ## Sculpture
 ![sculpture](https://github.com/Throbbing/SGM/blob/master/result/sculpture.bmp)
